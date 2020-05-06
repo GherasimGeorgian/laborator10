@@ -1,0 +1,5 @@
+Nunta22,15,obligatoriu,descriere
+Absolvire22,12,facultativ,nice
+Practica22,10,facultativ,naspac
+Fotbal22,10,facultativ,campionat
+Sesiune22,10,facultativ,nu

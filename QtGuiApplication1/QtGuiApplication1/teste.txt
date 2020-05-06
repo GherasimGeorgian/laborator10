@@ -1,0 +1,3 @@
+Nunta22,15,obligatoriu,descriere nunta
+Practica22,10,facultativ,naspac
+Sesiune22,10,facultativ,nu cred ca vrei sa stii
